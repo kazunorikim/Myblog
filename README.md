@@ -3,9 +3,13 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+# How to management
+
 Things you may want to cover:
 
 * Ruby version
+
+* Gems
 
 * System dependencies
 
@@ -22,4 +26,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-test
